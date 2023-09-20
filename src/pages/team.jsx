@@ -1,4 +1,4 @@
-import React from "react";
+
 import PERSON1 from "../../public/2.png";
 import PERSON2 from "../../public/3.png";
 import PERSON3 from "../../public/4.png";
